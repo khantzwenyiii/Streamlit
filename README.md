@@ -1,2 +1,2 @@
 # Streamlit
-For Simbolo's Streamlit assignments
+Hi this is Khant Zwe Nyi. This repository is for Simbolo's Streamlit assignments.
